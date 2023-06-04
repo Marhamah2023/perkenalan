@@ -2,6 +2,6 @@ Selamat siang semuanya.....
 Ini adalah perkenalan kedua saya
 
 Kali ini saya sedang mempelajari tentang branch pada github
-dan juga marge serta konflik branch
+serta konflik branch
 
 Salam kenal semuanya....
